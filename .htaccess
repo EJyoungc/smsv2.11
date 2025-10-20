@@ -15,6 +15,7 @@ RewriteRule ^ server.php
 
 
 
+
 # RewriteEngine On
 
 # # Allow HTTP access only to /gps folder
